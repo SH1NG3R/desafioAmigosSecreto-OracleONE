@@ -5,7 +5,7 @@ Este proyecto es parte del curso de Oracle ONE y consiste en una aplicación web
 ### Video de Funcionamiento
 [![Título del Video](https://img.youtube.com/vi/3bChXmQshJM/0.jpg)](https://www.youtube.com/watch?v=3bChXmQshJM)
 
-https://youtu.be/3bChXmQshJM
+Link VIDEO: https://youtu.be/3bChXmQshJM
 
 ## Tabla de Contenidos
 - [Descripción del Proyecto](#descripción-del-proyecto)
