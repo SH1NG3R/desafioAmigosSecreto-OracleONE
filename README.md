@@ -38,15 +38,15 @@ La aplicación "Amigo Secreto" permite a los usuarios:
 
 1. Clona este repositorio en tu máquina local:
    ```sh
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/SH1NG3R/desafioAmigosSecreto-OracleONE
    ```
 
 2. Navega al directorio del proyecto:
    ```sh
-   cd amigo-secreto
+   cd desafioAmigosSecreto-OracleONE
    ```
 
-3. Abre el archivo `index.html` en tu navegador web preferido.
+3. Abre el archivo `index.html` en tu navegador web preferido (yo uso firefox).
 
 ## Funcionalidades Implementadas
 
