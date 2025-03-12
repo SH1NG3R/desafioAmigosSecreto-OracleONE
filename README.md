@@ -2,6 +2,10 @@
 
 Este proyecto es parte del curso de Oracle ONE y consiste en una aplicación web que permite a los usuarios agregar nombres de amigos, sortear uno al azar y resetear la lista. La aplicación está diseñada para ser fácil de usar y proporcionar una experiencia intuitiva.
 
+[![Título del Video](https://img.youtube.com/vi/3bChXmQshJM/0.jpg)](https://www.youtube.com/watch?v=3bChXmQshJM)
+
+https://youtu.be/3bChXmQshJM
+
 ## Tabla de Contenidos
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Características](#características)
