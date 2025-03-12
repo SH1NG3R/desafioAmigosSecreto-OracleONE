@@ -15,7 +15,6 @@ https://youtu.be/3bChXmQshJM
   - [Ejecución](#ejecución)
 - [Funcionalidades Implementadas](#funcionalidades-implementadas)
 - [Pruebas Realizadas](#pruebas-realizadas)
-- [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 
 ## Descripción del Proyecto
@@ -62,16 +61,6 @@ La aplicación "Amigo Secreto" permite a los usuarios:
 1. Ingresé varios nombres separados por comas y verifiqué que se agregaran correctamente a la lista.
 2. Hice clic en el botón "Sortear amigo" y verificué que se seleccionara un nombre al azar y se mostrara en pantalla.
 3. Hice clic en el botón "Resetear Lista" y verifiqué que la lista de amigos se vaciara y los elementos en pantalla se limpiaran.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna mejora, por favor abre un issue o envía un pull request. Asegúrate de seguir las directrices del proyecto.
-
-1. Forkea el repositorio.
-2. Crea una rama para tu feature (`git checkout -b feature/TuFeature`).
-3. Realiza tus cambios y haz commit (`git commit -am 'Añadir nueva característica'`).
-4. Haz push a la rama (`git push origin feature/TuFeature`).
-5. Abre un pull request.
 
 ## Licencia
 
